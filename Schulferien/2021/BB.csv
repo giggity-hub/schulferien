@@ -1,0 +1,7 @@
+name, type, start, end, source, info
+Herbstferien, HERBST, 2021-10-11, 2021-10-23, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Weihnachtsferien, Weihnachtsferien, 2021-12-23, 2021-12-32, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Winterferien, WINTER, 2021-1-2, 2021-2-6, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Osterferien, OSTERN, 2021-3-29, 20214-9, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Sommerferien, SOMMER, 2021-6-24, 2021-8-7, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Variable Ferientage, UNTERRICHTSFREI, 2021-5-14, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf, "Ferientag, soweit Schulkonferenz keine abweichende Festlegung gemäß Nr. 6 Abs. 2 trifft"
