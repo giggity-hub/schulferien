@@ -1,0 +1,6 @@
+name, type, start, end, source, info 
+Sommerferien, SOMMER, 2021-7-29, 2021-8-11, https://km-bw.de/,Lde/startseite/service/Ferien?QUERYSTRING=ferien,
+Herbstferien, HERBST, 2021-11-2, 2021-11-6, https://km-bw.de/,Lde/startseite/service/Ferien?QUERYSTRING=ferien,
+Weihnachtsferien, WEIHNACHTEN, 2021-12-23, 2022-1-8, https://km-bw.de/,Lde/startseite/service/Ferien?QUERYSTRING=ferien,
+Osterferien, OSTERN, 2021-4-6, 2021-4-10, https://km-bw.de/,Lde/startseite/service/Ferien?QUERYSTRING=ferien,
+Pfingstferien, PFINGSTEN, 2021-5-25, 2021-6-5, https://km-bw.de/,Lde/startseite/service/Ferien?QUERYSTRING=ferien,
