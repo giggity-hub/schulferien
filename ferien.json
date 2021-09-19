@@ -30,7 +30,7 @@
             },
             {
                 "bundesland": "BB",
-                "end": "20214-9",
+                "end": "2021-4-9",
                 "info": "",
                 "name": "Osterferien",
                 "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
@@ -343,7 +343,7 @@
             },
             {
                 "bundesland": "NI",
-                "end": "20214-9",
+                "end": "2021-4-9",
                 "info": "",
                 "name": "Osterferien",
                 "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
@@ -748,7 +748,7 @@
             },
             {
                 "bundesland": "BB",
-                "end": "20224-9",
+                "end": "2022-4-9",
                 "info": "",
                 "name": "Osterferien",
                 "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
@@ -1061,7 +1061,7 @@
             },
             {
                 "bundesland": "NI",
-                "end": "20224-9",
+                "end": "2022-4-9",
                 "info": "",
                 "name": "Osterferien",
                 "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
