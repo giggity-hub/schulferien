@@ -1,0 +1,1438 @@
+{
+    "2021": {
+        "BB": [
+            {
+                "bundesland": "BB",
+                "end": "2021-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2021-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2021-12-32",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2021-2-6",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2021-1-2",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "BB",
+                "end": "20214-9",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2021-8-7",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2021-6-24",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2021-5-14",
+                "info": "Ferientag, soweit Schulkonferenz keine abweichende Festlegung gem\u00e4\u00df Nr. 6 Abs. 2 trifft",
+                "name": "Variable Ferientage",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2021-5-14",
+                "type": "UNTERRICHTSFREI"
+            }
+        ],
+        "BE": [
+            {
+                "bundesland": "BE",
+                "end": "2021-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/artikel.420979.php",
+                "start": "2021-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "BE",
+                "end": "2022-1-3",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/artikel.420979.php",
+                "start": "2021-12-24",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "BW": [
+            {
+                "bundesland": "BW",
+                "end": "2021-8-11",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "",
+                "start": "2021-7-29",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2021-11-6",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "",
+                "start": "2021-11-2",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2021-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "",
+                "start": "2021-4-6",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2021-6-5",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "",
+                "start": "2021-5-25",
+                "type": "PFINGSTEN"
+            }
+        ],
+        "BY": [
+            {
+                "bundesland": "BY",
+                "end": "2021-9-13",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2021-7-30",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2021-11-5",
+                "info": "",
+                "name": "Unterrichtsfreie Tage",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2021-11-2",
+                "type": "UNTERRICHTSFREI"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2021-12-24",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2021-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2021-6-4",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2021-5-25",
+                "type": "PFINGSTEN"
+            }
+        ],
+        "HB": [
+            {
+                "bundesland": "HB",
+                "end": "2021-9-1",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-7-22",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2021-10-30",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2021-2-2",
+                "info": "",
+                "name": "Halbjahresferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-2-1",
+                "type": "HALBJAHR"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2021-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-3-27",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2021-5-14",
+                "info": "",
+                "name": "Tag nach Himmelfahrt",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-5-14",
+                "type": "OTHER"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2021-5-25",
+                "info": "",
+                "name": "Pfingsten",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2021-5-25",
+                "type": "PFINGSTEN"
+            }
+        ],
+        "HE": [
+            {
+                "bundesland": "HE",
+                "end": "2021-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://kultusministerium.hessen.de/schulsystem/ferien/ferientermine",
+                "start": "2021-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "HE",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://kultusministerium.hessen.de/schulsystem/ferien/ferientermine",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "HH": [
+            {
+                "bundesland": "HH",
+                "end": "2021-10-15",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2021-10-4",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2021-1-4",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2021-1-29",
+                "info": "",
+                "name": "Halbjahrespause",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2021-1-29",
+                "type": "HALBJAHR"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2021-3-12",
+                "info": "",
+                "name": "Fr\u00fchjahrsferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2021-3-1",
+                "type": "FR\u00dcHJAHR"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2021-5-14",
+                "info": "",
+                "name": "Pfingsten",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2021-5-10",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2021-8-4",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2021-6-24",
+                "type": "SOMMER"
+            }
+        ],
+        "MV": [
+            {
+                "bundesland": "MV",
+                "end": "2021-10-9",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.regierung-mv.de/Landesregierung/bm/Bildung/Schule/Ferientermine/",
+                "start": "2021-10-2",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "MV",
+                "end": "2021-12-32",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.regierung-mv.de/Landesregierung/bm/Bildung/Schule/Ferientermine/",
+                "start": "2021-12-22",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "NI": [
+            {
+                "bundesland": "NI",
+                "end": "2021-2-2",
+                "info": "",
+                "name": "Halbjahresferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2021-2-1",
+                "type": "HALBJAHR"
+            },
+            {
+                "bundesland": "NI",
+                "end": "20214-9",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2021-5-14",
+                "info": "",
+                "name": "Himmelfahrt",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2021-5-14",
+                "type": "OTHER"
+            },
+            {
+                "bundesland": "NI",
+                "end": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "info": null,
+                "name": "Pfingstferien",
+                "source": "",
+                "start": "2021-5-25",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2021-9-1",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2021-7-22",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2021-10-29",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2021-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2021-1-7",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "NW": [
+            {
+                "bundesland": "NW",
+                "end": "2021-8-17",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.schulministerium.nrw/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202324",
+                "start": "2021-7-5",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "NW",
+                "end": "2021-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.schulministerium.nrw/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202324",
+                "start": "2021-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "NW",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.schulministerium.nrw/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202324",
+                "start": "2021-12-24",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "RP": [
+            {
+                "bundesland": "RP",
+                "end": "2021-4-6",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "RP",
+                "end": "2021-6-2",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2021-5-25",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "RP",
+                "end": "2021-8-27",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2021-7-19",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "RP",
+                "end": "https://bm.rlp.de/de/service/ferientermine/",
+                "info": null,
+                "name": "Herbstferien",
+                "source": "",
+                "start": "2021-10-22",
+                "type": "2021-10-11"
+            },
+            {
+                "bundesland": "RP",
+                "end": "2021-12-31",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "SH": [
+            {
+                "bundesland": "SH",
+                "end": "2021-10-16",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.schleswig-holstein.de/DE/Landesregierung/Themen/BildungHochschulen/Ferientermine/Ferien.html",
+                "start": "2021-10-4",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "SH",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.schleswig-holstein.de/DE/Landesregierung/Themen/BildungHochschulen/Ferientermine/Ferien.html",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "SL": [
+            {
+                "bundesland": "SL",
+                "end": "2021-2-19",
+                "info": "",
+                "name": "Fastnachtsferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2021-2-15",
+                "type": "OTHER"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2021-4-7",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2021-5-28",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2021-5-25",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2021-8-27",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2021-7-19",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2021-10-29",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2021-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2022-1-3",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "SN": [
+            {
+                "bundesland": "SN",
+                "end": "2021-2-20",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2021.html",
+                "start": "2021-2-8",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2021-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2021.html",
+                "start": "2021-4-2",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2021-5-14",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2021.html",
+                "start": "2021-5-14",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2021-9-3",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2021.html",
+                "start": "2021-7-26",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2021-10-30",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2021.html",
+                "start": "2021-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2022-1-1",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2021.html",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "ST": [
+            {
+                "bundesland": "ST",
+                "end": "2021-2-13",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2021-2-8",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2021-4-3",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2021-5-22",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2021-5-10",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2021-9-1",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2021-7-22",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2021-10-30",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2021-10-25",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2022-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2021-12-22",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "TH": [
+            {
+                "bundesland": "TH",
+                "end": "2021-1-30",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2021-1-25",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2021-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2021-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2021-5-14",
+                "info": "",
+                "name": "Schulfreier Tag",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2021-5-14",
+                "type": "UNTERRICHTSFREI"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2021-9-4",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2021-7-26",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2021-11-6",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2021-10-25",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2021-12-31",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2021-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ]
+    },
+    "2022": {
+        "BB": [
+            {
+                "bundesland": "BB",
+                "end": "2022-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2022-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2022-12-32",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2022-2-6",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2022-1-2",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "BB",
+                "end": "20224-9",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2022-8-7",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2022-6-24",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "BB",
+                "end": "2022-5-14",
+                "info": "Ferientag, soweit Schulkonferenz keine abweichende Festlegung gem\u00e4\u00df Nr. 6 Abs. 2 trifft",
+                "name": "Variable Ferientage",
+                "source": "https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf",
+                "start": "2022-5-14",
+                "type": "UNTERRICHTSFREI"
+            }
+        ],
+        "BE": [
+            {
+                "bundesland": "BE",
+                "end": "2022-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/artikel.420979.php",
+                "start": "2022-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "BE",
+                "end": "2023-1-3",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.berlin.de/sen/bjf/service/kalender/ferien/artikel.420979.php",
+                "start": "2022-12-24",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "BW": [
+            {
+                "bundesland": "BW",
+                "end": "2022-8-11",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "",
+                "start": "2022-7-29",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2022-11-6",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "",
+                "start": "2022-11-2",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2022-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "",
+                "start": "2022-4-6",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "BW",
+                "end": "2022-6-5",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "",
+                "start": "2022-5-25",
+                "type": "PFINGSTEN"
+            }
+        ],
+        "BY": [
+            {
+                "bundesland": "BY",
+                "end": "2022-9-13",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2022-7-30",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2022-11-5",
+                "info": "",
+                "name": "Unterrichtsfreie Tage",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2022-11-2",
+                "type": "UNTERRICHTSFREI"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2022-12-24",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2022-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "BY",
+                "end": "2022-6-4",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.km.bayern.de/ministerium/termine/ferientermine.html",
+                "start": "2022-5-25",
+                "type": "PFINGSTEN"
+            }
+        ],
+        "HB": [
+            {
+                "bundesland": "HB",
+                "end": "2022-9-1",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-7-22",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2022-10-30",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2022-2-2",
+                "info": "",
+                "name": "Halbjahresferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-2-1",
+                "type": "HALBJAHR"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2022-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-3-27",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2022-5-14",
+                "info": "",
+                "name": "Tag nach Himmelfahrt",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-5-14",
+                "type": "OTHER"
+            },
+            {
+                "bundesland": "HB",
+                "end": "2022-5-25",
+                "info": "",
+                "name": "Pfingsten",
+                "source": "https://www.bildung.bremen.de/ferientermine-3404",
+                "start": "2022-5-25",
+                "type": "PFINGSTEN"
+            }
+        ],
+        "HE": [
+            {
+                "bundesland": "HE",
+                "end": "2022-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://kultusministerium.hessen.de/schulsystem/ferien/ferientermine",
+                "start": "2022-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "HE",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://kultusministerium.hessen.de/schulsystem/ferien/ferientermine",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "HH": [
+            {
+                "bundesland": "HH",
+                "end": "2022-10-15",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2022-10-4",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2022-1-4",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2022-1-29",
+                "info": "",
+                "name": "Halbjahrespause",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2022-1-29",
+                "type": "HALBJAHR"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2022-3-12",
+                "info": "",
+                "name": "Fr\u00fchjahrsferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2022-3-1",
+                "type": "FR\u00dcHJAHR"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2022-5-14",
+                "info": "",
+                "name": "Pfingsten",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2022-5-10",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "HH",
+                "end": "2022-8-4",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.hamburg.de/bsb/ferien/",
+                "start": "2022-6-24",
+                "type": "SOMMER"
+            }
+        ],
+        "MV": [
+            {
+                "bundesland": "MV",
+                "end": "2022-10-9",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.regierung-mv.de/Landesregierung/bm/Bildung/Schule/Ferientermine/",
+                "start": "2022-10-2",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "MV",
+                "end": "2022-12-32",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.regierung-mv.de/Landesregierung/bm/Bildung/Schule/Ferientermine/",
+                "start": "2022-12-22",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "NI": [
+            {
+                "bundesland": "NI",
+                "end": "2022-2-2",
+                "info": "",
+                "name": "Halbjahresferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2022-2-1",
+                "type": "HALBJAHR"
+            },
+            {
+                "bundesland": "NI",
+                "end": "20224-9",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2022-5-14",
+                "info": "",
+                "name": "Himmelfahrt",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2022-5-14",
+                "type": "OTHER"
+            },
+            {
+                "bundesland": "NI",
+                "end": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "info": null,
+                "name": "Pfingstferien",
+                "source": "",
+                "start": "2022-5-25",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2022-9-1",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2022-7-22",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2022-10-29",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2022-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "NI",
+                "end": "2022-1-7",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.mk.niedersachsen.de/startseite/service/ferientermine/schulferien-6491.html",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "NW": [
+            {
+                "bundesland": "NW",
+                "end": "2022-8-17",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.schulministerium.nrw/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202324",
+                "start": "2022-7-5",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "NW",
+                "end": "2022-10-23",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.schulministerium.nrw/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202324",
+                "start": "2022-10-11",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "NW",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.schulministerium.nrw/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202324",
+                "start": "2022-12-24",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "RP": [
+            {
+                "bundesland": "RP",
+                "end": "2022-4-6",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "RP",
+                "end": "2022-6-2",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2022-5-25",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "RP",
+                "end": "2022-8-27",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2022-7-19",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "RP",
+                "end": "https://bm.rlp.de/de/service/ferientermine/",
+                "info": null,
+                "name": "Herbstferien",
+                "source": "",
+                "start": "2022-10-22",
+                "type": "2022-10-11"
+            },
+            {
+                "bundesland": "RP",
+                "end": "2022-12-31",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://bm.rlp.de/de/service/ferientermine/",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "SH": [
+            {
+                "bundesland": "SH",
+                "end": "2022-10-16",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.schleswig-holstein.de/DE/Landesregierung/Themen/BildungHochschulen/Ferientermine/Ferien.html",
+                "start": "2022-10-4",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "SH",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.schleswig-holstein.de/DE/Landesregierung/Themen/BildungHochschulen/Ferientermine/Ferien.html",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "SL": [
+            {
+                "bundesland": "SL",
+                "end": "2022-2-19",
+                "info": "",
+                "name": "Fastnachtsferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2022-2-15",
+                "type": "OTHER"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2022-4-7",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2022-5-28",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2022-5-25",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2022-8-27",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2022-7-19",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2022-10-29",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2022-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "SL",
+                "end": "2023-1-3",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.saarland.de/SharedDocs/Downloads/DE/mbk/Bildungsserver/allgemeine-informationen/Ferientermine.html",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "SN": [
+            {
+                "bundesland": "SN",
+                "end": "2022-2-20",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2022.html",
+                "start": "2022-2-8",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2022-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2022.html",
+                "start": "2022-4-2",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2022-5-14",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2022.html",
+                "start": "2022-5-14",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2022-9-3",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2022.html",
+                "start": "2022-7-26",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2022-10-30",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2022.html",
+                "start": "2022-10-18",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "SN",
+                "end": "2023-1-1",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.schulferien-sachsen.de/schulferien-sachsen-2022.html",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "ST": [
+            {
+                "bundesland": "ST",
+                "end": "2022-2-13",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2022-2-8",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2022-4-3",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2022-5-22",
+                "info": "",
+                "name": "Pfingstferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2022-5-10",
+                "type": "PFINGSTEN"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2022-9-1",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2022-7-22",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2022-10-30",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2022-10-25",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "ST",
+                "end": "2023-1-8",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://www.tutoria.de/schule-ratgeber/ferientermine/schulferientermine-sachsen-anhalt",
+                "start": "2022-12-22",
+                "type": "WEIHNACHTEN"
+            }
+        ],
+        "TH": [
+            {
+                "bundesland": "TH",
+                "end": "2022-1-30",
+                "info": "",
+                "name": "Winterferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2022-1-25",
+                "type": "WINTER"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2022-4-10",
+                "info": "",
+                "name": "Osterferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2022-3-29",
+                "type": "OSTERN"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2022-5-14",
+                "info": "",
+                "name": "Schulfreier Tag",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2022-5-14",
+                "type": "UNTERRICHTSFREI"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2022-9-4",
+                "info": "",
+                "name": "Sommerferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2022-7-26",
+                "type": "SOMMER"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2022-11-6",
+                "info": "",
+                "name": "Herbstferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2022-10-25",
+                "type": "HERBST"
+            },
+            {
+                "bundesland": "TH",
+                "end": "2022-12-31",
+                "info": "",
+                "name": "Weihnachtsferien",
+                "source": "https://bildung.thueringen.de/schule/schulwesen/ferien/",
+                "start": "2022-12-23",
+                "type": "WEIHNACHTEN"
+            }
+        ]
+    }
+}
