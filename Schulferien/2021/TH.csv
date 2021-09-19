@@ -1,0 +1,7 @@
+name, type, start, end, source, info
+Winterferien, WINTER, 2021-1-25, 2021-1-30, https://bildung.thueringen.de/schule/schulwesen/ferien/,
+Osterferien, OSTERN, 2021-3-29, 2021-4-10, https://bildung.thueringen.de/schule/schulwesen/ferien/,
+Schulfreier Tag, UNTERRICHTSFREI, 2021-5-14, 2021-5-14, https://bildung.thueringen.de/schule/schulwesen/ferien/,
+Sommerferien, SOMMER, 2021-7-26, 2021-9-4, https://bildung.thueringen.de/schule/schulwesen/ferien/,
+Herbstferien,HERBST, 2021-10-25, 2021-11-6, https://bildung.thueringen.de/schule/schulwesen/ferien/,
+Weihnachtsferien, WEIHNACHTEN, 2021-12-23, 2021-12-31, https://bildung.thueringen.de/schule/schulwesen/ferien/,

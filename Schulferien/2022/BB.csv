@@ -1,0 +1,7 @@
+name, type, start, end, source, info
+Herbstferien, HERBST, 2022-10-11, 2022-10-23, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Weihnachtsferien, WEIHNACHTEN, 2022-12-23, 2022-12-32, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Winterferien, WINTER, 2022-1-2, 2022-2-6, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Osterferien, OSTERN, 2022-3-29, 20224-9, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Sommerferien, SOMMER, 2022-6-24, 2022-8-7, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf,
+Variable Ferientage, UNTERRICHTSFREI, 2022-5-14, 2022-5-14, https://mbjs.brandenburg.de/media_fast/6288/schulferien_bis_2024.pdf, "Ferientag, soweit Schulkonferenz keine abweichende Festlegung gemäß Nr. 6 Abs. 2 trifft"
