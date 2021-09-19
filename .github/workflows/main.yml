@@ -24,11 +24,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Create report file
-        run: python ./.github/workflows/test.py > report.txt
+        run: python ./.github/workflows/test.py > ferien.json
       - name: Commit report
         run: |
-          git config --global user.name 'Your Name'
-          git config --global user.email 'your-username@users.noreply.github.com'
+          git config --global user.name 'ferien-bot'
+          git config --global user.email 'giggity-hub@users.noreply.github.com'
           git add -A
           git commit -m "Automated report"
           git push
